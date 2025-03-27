@@ -21,9 +21,13 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(85, 3, 133)
+    border: 5px solid rgb(255, 145, 0)
  }
 
  .center{
-    text-aling: center;
+     text-aling: center;
+ }
+
+ h1 {
+    color:rgb(255, 174, 0)
  }
